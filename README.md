@@ -1,2 +1,5 @@
-# Personalized-Recipe-Book
-Template repositories let users generate new repositories with the same directory structure and files. Indicate if Mikael-Sundstrom/Personalized-Recipe-Book can be used as a template for creating other repositories.
+# Personalized Recipe Book
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.

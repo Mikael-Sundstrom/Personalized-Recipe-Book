@@ -1,0 +1,13 @@
+{
+	"files.exclude": {
+		".npmrc": true,
+		".vscode": true,
+		"node_modules": true,
+		"browserslist": true,
+		"LICENSE": true,
+		"tsconfig.app.json": true,
+		"tsconfig.json": true,
+		"**/main.ts": true,
+		"**/polyfills.ts": true,
+	}
+}
